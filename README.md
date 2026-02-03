@@ -1,4 +1,3 @@
-```markdown
 # 🛠️ GenAI-Architect-70-Hands-On-Projects - Master AI Projects with Ease
 
 ## 📥 Download Now
